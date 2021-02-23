@@ -10,3 +10,4 @@ cache/
 *.DS_Store
 coverage/
 coverage.json
+.env
