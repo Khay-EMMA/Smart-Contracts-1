@@ -2,6 +2,7 @@ node_modules/
 build/
 artifacts/
 cache/
+.env
 
 /.idea/
 
@@ -10,4 +11,3 @@ cache/
 *.DS_Store
 coverage/
 coverage.json
-.env
